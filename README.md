@@ -1,4 +1,5 @@
-### Hi there Githubians 👋
+### Hi there Githubians 
+I’m currently working on whatever is currently on my mind.
 
 <!--
 **wvelting1/wvelting1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
